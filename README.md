@@ -28,5 +28,5 @@
 ---
 
 📫 **Entre em contato comigo:**
-- LinkedIn: [seu perfil](https://www.linkedin.com/in/seu-perfil/)
+- LinkedIn: [seu perfil](www.linkedin.com/in/danloc0sta)
 - Email: [seuemail@example.com](mailto:seuemail@example.com)

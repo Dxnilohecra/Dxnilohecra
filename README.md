@@ -3,9 +3,9 @@
 ### Atualmente cursando no IFSC - Instituto Federal de Santa Catarina
 
 ### 🚀 Sobre mim
-- 🔹 Desenvolvedor **Back-End Java**, com conhecimento na linguagem e em APIs RESTful.
+- 🔹 Desenvolvedor **Back-End**, com conhecimento na linguagem Java, Python e em APIs RESTful.
 - 📊 Interesse em **ciência de dados** e **aprendizado de máquina**, utilizando **Python** e **R**.
-- 🖥️ Experiência com bancos de dados relacionais e não relacionais.
+- 🖥️ Conhecimento em bancos de dados relacionais e não relacionais.
 - 📡 Conhecimento em **redes de computadores** e infraestrutura de **provedores de internet (ISP)**.
 
 ### 🛠️ Tecnologias e Ferramentas

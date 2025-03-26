@@ -1,6 +1,6 @@
 ## Olá! Eu sou um Desenvolvedor Back-End e entusiasta de Ciência de Dados
 
-## Atualmente cursando em IFSC - Instituto Federal de Santa Catarina
+### Atualmente cursando em IFSC - Instituto Federal de Santa Catarina
 
 ### 🚀 Sobre mim
 - 🔹 Desenvolvedor **Back-End Java**, com conhecimento em formação na linguagem e em APIs RESTful.

@@ -1,6 +1,6 @@
-## Olá! Eu sou um Desenvolvedor Back-End e entusiasta de Ciência de Dados 
+## Olá! Eu sou Academico em Análise e Desenvolvimento de Sistemas e entusiasta em Ciência de Dados 
 
-### Atualmente cursando no IFSC - Instituto Federal de Santa Catarina
+### Atualmente 
 
 ### 🚀 Sobre mim
 - 🔹 Desenvolvedor **Back-End**, com conhecimento na linguagem Java, Python e em APIs RESTful.

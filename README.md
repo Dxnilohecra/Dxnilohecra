@@ -3,9 +3,8 @@
 ### Atualmente 
 
 ### 🚀 Sobre mim
-- 🔹 Desenvolvedor **Back-End**, com conhecimento na linguagem Java, Python e em APIs RESTful.
+- 🔹 Desenvolvedor, com conhecimento na linguagem Java, Python.
 - 📊 Interesse em **ciência de dados** e **aprendizado de máquina**, utilizando **Python** e **R**.
-- 🖥️ Conhecimento em bancos de dados relacionais e não relacionais.
 - 📡 Conhecimento em **redes de computadores** e infraestrutura de **provedores de internet (ISP)**.
 
 ### 🛠️ Tecnologias e Ferramentas

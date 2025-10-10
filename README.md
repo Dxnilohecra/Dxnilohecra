@@ -14,9 +14,9 @@
 - **Ferramentas e Frameworks**:
   - Java com conhecimentos de POO consolidados.
   - Python: Pandas, Numpy, Scikit-learn, LangChain Framework.
-- **Outros Conhecimentos**:
-  - Ferrementas Low-Code | No-Code: N8N e Copilot Studio   
-  - Redes de Computadores, Conhecimento em Protocolos de Redes, Mikrotik
+  - Ferrementas Low-Code | No-Code: N8N e Copilot Studio
+- **Outros Conhecimentos**: 
+  - Redes de Computadores, Conhecimento em Protocolos de Redes, Conhecimento no ambiente corporativo ISPs, Mikrotik
   - Git, Linux
 
 ### 📈 Estatísticas do GitHub

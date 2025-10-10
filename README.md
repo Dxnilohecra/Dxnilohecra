@@ -13,9 +13,10 @@
 - **Banco de Dados**: ![SQLServer](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 - **Ferramentas e Frameworks**:
   - Java com conhecimentos de POO consolidados.
-  - Python: Pandas, Numpy, Scikit-learn.
+  - Python: Pandas, Numpy, Scikit-learn, LangChain Framework.
 - **Outros Conhecimentos**:
-  - Redes de Computadores, Mikrotik
+  - Ferrementas Low-Code | No-Code: N8N e Copilot Studio   
+  - Redes de Computadores, Conhecimento em Protocolos de Redes, Mikrotik
   - Git, Linux
 
 ### 📈 Estatísticas do GitHub

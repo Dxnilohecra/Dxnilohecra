@@ -1,4 +1,4 @@
-## Olá! Eu sou Academico em Análise e Desenvolvimento de Sistemas e entusiasta em Ciência de Dados 
+## Olá! Eu sou Academico em Ciência de Dados 
 
 ### Atualmente 
 

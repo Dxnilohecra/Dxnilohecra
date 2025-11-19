@@ -16,8 +16,9 @@
   - Python: Pandas, Numpy, Scikit-learn, LangChain Framework.
   - Ferrementas Low-Code | No-Code: N8N e Copilot Studio
 - **Outros Conhecimentos**: 
-  - Redes de Computadores, Conhecimento em Protocolos de Redes, Conhecimento no ambiente corporativo ISPs, Mikrotik
+  - Redes de Computadores, Conhecimento em Protocolos de Redes, Conhecimento no ambiente corporativo ISPs, Mikrotik Winbox
   - Git, Linux
+  - Grafana, Zabbix
 
 ### 📈 Estatísticas do GitHub
 

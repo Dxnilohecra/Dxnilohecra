@@ -4,7 +4,7 @@
 
 ### 🚀 Sobre mim
 - 🔹 Desenvolvedor, com conhecimento na linguagem Java, Python.
-- 📊 Interesse em **ciência de dados** e **aprendizado de máquina**, utilizando **Python**.
+- 📊 Interesse em **ciência de dados**, **aprendizado de máquina** e **aprendizado profundo**, utilizando **Python**.
 - 📡 Conhecimento em **redes de computadores**, infraestrutura e monitoramento de rotas(BACKBONE) de **provedores de internet (ISP)**.
 
 ### 🛠️ Tecnologias e Ferramentas

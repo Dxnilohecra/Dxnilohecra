@@ -24,9 +24,7 @@
 
 ## 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dxnilohecra&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnilohecra&layout=compact)
+![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnilohecra&layout=compact&theme=dracula))
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dxnilohecra&theme=radical)
 

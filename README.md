@@ -20,15 +20,15 @@
   - Git, Linux
   - Grafana, Zabbix
 
-### 📈 Estatísticas do GitHub
+## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dxnilohecra\&show_icons=true\&theme=radical\&count_private=true)
 
-![Top Langs]((https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnilohecra&layout=compact&theme=dracula))
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnilohecra\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dxnilohecra&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dxnilohecra\&theme=radical)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dxnilohecra&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dxnilohecra\&theme=react-dark)
 
 ---
 

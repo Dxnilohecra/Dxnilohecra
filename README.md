@@ -22,8 +22,15 @@
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical))
-![Linguagens Mais Usadas](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact))
+## 📊 Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dxnilohecra&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dxnilohecra&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Dxnilohecra&theme=radical)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dxnilohecra&theme=react-dark)
 
 ---
 

@@ -2,12 +2,12 @@
 
 ### Atualmente 
 
-### 🚀 Sobre mim
-- 🔹 Desenvolvedor Python.
-- 📊 Interesse em **ciência de dados**, **aprendizado de máquina**, **aprendizado profundo**, utilizando **Python**, redes e desenvolvimento de software para ISPs.
-- 📡 Conhecimento em **redes de computadores**, infraestrutura, monitoramento de redes e criação de software para **provedores de internet (ISPs)**.
+### Sobre mim
+-  Desenvolvedor Python.
+-  Interesse em **ciência de dados**, **aprendizado de máquina**, **aprendizado profundo**, utilizando **Python**, redes e desenvolvimento de software para ISPs.
+-  Conhecimento em **redes de computadores**, infraestrutura, monitoramento de redes e criação de software para **provedores de internet (ISPs)**.
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 - **Linguagens**: ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?&logo=pandas) ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=101010) ![Langchain](https://img.shields.io/badge/LangChain-DD0031?style=for-the-badge&logo=langchain&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white)
 - **Banco de Dados**: ![PostgreeSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -19,7 +19,7 @@
   - Git, Linux
   - Grafana, Zabbix, Proxmox
 
-## 📊 Estatísticas do GitHub
+## Estatísticas do GitHub
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Dxnilohecra\&theme=radical)
 
@@ -27,6 +27,6 @@
 
 ---
 
-📫 **Entre em contato comigo:**
+**Entre em contato comigo:**
 - LinkedIn: [danloc0sta](https://www.linkedin.com/in/danloc0sta/)
 - Email: [danilo2022costa@gmail.com](mailto:danilo2022costa@gmail.com)
